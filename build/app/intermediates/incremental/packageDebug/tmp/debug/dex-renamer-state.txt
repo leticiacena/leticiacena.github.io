@@ -1,4 +1,0 @@
-#Fri Mar 17 17:24:23 BRT 2023
-base.0=/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
