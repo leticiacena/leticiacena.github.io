@@ -75799,7 +75799,7 @@ A.oV(A.rR("",new A.aj6()),null,null,null,B.t,null,n,B.bO,B.c4,null,null,null,nul
 return A.V(null,r)}})
 return A.W($async$jI,r)},
 J(a){var s=null,r=A.op(0,A.cK("assets/images/img_fundo_mobile.png",B.o,B.ev,s,s),s,s,0,0,0,s),q=A.ft(10),p=this.d,o=p.as,n=t.p
-return A.fT(s,s,A.dQ(B.a8,A.a([r,A.k4(A.kd(A.a([A.bD(s,A.dI(A.a([A.cK(u.w,B.o,s,s,s),B.b5,A.bj("Fisioterapeuta",s,s,s,s,A.fG(B.aV,25,B.aa),B.ax,s),new A.ah(B.as,A.bj(u.y,s,s,s,s,A.fG(B.bx,15,s),B.ax,s),s),B.e9,new A.ah(B.R,A.bt(p.c,!0,"Digite aqui o seu nome",B.bl,s,B.b7,"Nome: ",!1),s),new A.ah(B.R,A.bt(p.d,!0,"Digite aqui a sua matr\xedcula",B.cK,s,B.b7,"Matr\xedcula: ",!1),s),new A.ah(B.R,A.bt(p.Q,!0,"Digite aqui o seu email",B.f0,s,B.c_,"Email: ",!1),s),new A.ah(B.R,A.bt(o,!0,"Digite aqui a sua senha",B.cd,s,B.b7,"Senha: ",!0),s),new A.ah(B.R,A.bt(o,!0,"Confirme aqui a sua senha",B.f1,s,B.aD,"Confirmar senha: ",!0),s),B.bF,new A.hQ("CADASTRAR",this.gCk(),s)],n),B.y,B.S,B.B),s,s,new A.cz(B.j,s,s,q,s,s,B.a2),600,s,B.dk,s)],n),B.dl),this.e)],n),B.t,B.a4))},
+return A.fT(s,s,A.dQ(B.a8,A.a([r,A.k4(A.kd(A.a([A.bD(s,A.dI(A.a([A.cK(u.w,B.o,s,s,s),B.b5,A.bj("Fisioterapeuta",s,s,s,s,A.fG(B.aV,25,B.aa),B.ax,s),new A.ah(B.as,A.bj(u.y,s,s,s,s,A.fG(B.bx,15,s),B.ax,s),s),B.e9,new A.ah(B.R,A.bt(p.c,!0,"Digite aqui o seu nome",B.bl,s,B.b7,"Nome: ",!1),s),new A.ah(B.R,A.bt(p.d,!0,"Digite aqui a sua matr\xedcula",B.cK,s,B.b7,"Matr\xedcula: ",!1),s),new A.ah(B.R,A.bt(p.Q,!0,"Digite aqui o seu email",B.f0,s,B.c_,"Email: ",!1),s),new A.ah(B.R,A.bt(o,!0,"Digite aqui a sua senha",B.cd,s,B.b7,"Senha: ",!0),s),new A.ah(B.R,A.bt(o,!0,"Confirme aqui a sua senha",B.f1,s,B.aD,"Confirmar senha: ",!0),s),B.bF,new A.hQ("CADASTRAR",this.gCk(),s)],n),B.y,B.S,B.B),s,s,new A.cz(B.j,s,s,q,s,s,B.a2),s,s,B.dk,s)],n),B.dl),this.e)],n),B.t,B.a4))},
 gjc(){return""},
 gjb(){return""}}
 A.aj6.prototype={
@@ -75808,7 +75808,8 @@ $S:0}
 A.vg.prototype={
 a3(){return new A.Nr(A.h7(),new A.bp(null,t.am),B.i)}}
 A.Nr.prototype={
-J(a){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f=t.w,e=a.M(f).f
+J(a){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f=t.w
+a.M(f).toString
 f=a.M(f).f
 s=A.bD(g,g,g,g,B.nb,1/0,g,g,1/0)
 r=A.cK(u.w,B.o,g,g,g)
@@ -75827,7 +75828,7 @@ i=A.ft(10)
 A.vG()
 i=A.fu(g,g,new A.aN(B.aV,t.R),new A.aN(5,t.QL),g,g,g,g,g,g,new A.aN(B.h4,t.v),g,g,g,g,new A.aN(new A.bW(i,new A.bF(A.as(255,217,65,0),1,B.V,-1)),t.xx),g,g,g,g,g,g)
 h=t.p
-return A.fT(g,B.hN,A.dQ(B.a8,A.a([s,A.k4(A.kd(A.a([new A.ah(B.ar,A.bD(B.bj,A.dI(A.a([B.b5,r,B.b5,q,new A.ah(B.as,p,g),B.e9,new A.ah(B.a9,n,g),new A.ah(B.a9,l,g),new A.ah(B.a9,m,g),B.bF,new A.ah(B.a9,k,g),new A.ah(B.a9,j,g),new A.ah(B.a9,o,g),B.b5,A.jW(A.bj("CADASTRAR",g,g,g,g,B.mq,g,g),new A.aeo(this,a),i),new A.ah(B.ar,A.d3(A.cK("assets/images/logo_UFS.png",B.o,B.d8,g,g),80,150),g)],h),B.y,B.bC,B.B),g,g,B.d7,e.a.b-40,B.ar,g,f.a.a/3),g)],h),g),this.e)],h),B.t,B.a4))}}
+return A.fT(g,B.hN,A.dQ(B.a8,A.a([s,A.k4(A.kd(A.a([new A.ah(B.ar,A.bD(B.bj,A.dI(A.a([B.b5,r,B.b5,q,new A.ah(B.as,p,g),B.e9,new A.ah(B.a9,n,g),new A.ah(B.a9,l,g),new A.ah(B.a9,m,g),B.bF,new A.ah(B.a9,k,g),new A.ah(B.a9,j,g),new A.ah(B.a9,o,g),B.b5,A.jW(A.bj("CADASTRAR",g,g,g,g,B.mq,g,g),new A.aeo(this,a),i),new A.ah(B.ar,A.d3(A.cK("assets/images/logo_UFS.png",B.o,B.d8,g,g),80,150),g)],h),B.y,B.bC,B.B),g,g,B.d7,g,B.ar,g,f.a.a/3),g)],h),g),this.e)],h),B.t,B.a4))}}
 A.aeo.prototype={
 $0(){var s=0,r=A.X(t.H),q=this,p,o,n,m,l
 var $async$$0=A.Y(function(a,b){if(a===1)return A.U(b,r)
@@ -76062,7 +76063,7 @@ m=A.eP(A.a([A.bD(o,A.cK(u.K,B.el,B.cz,o,o),o,o,o,o,B.i3,o,o),A.d3(A.bj("OnColo",
 r=A.ft(10)
 q=this.d
 p=q.as
-return A.fT(o,o,A.dQ(B.a8,A.a([n,A.eP(A.a([m,A.hb(A.d3(A.k4(A.kd(A.a([A.bD(o,A.dI(A.a([A.cK(u.w,B.o,o,o,o),B.b5,A.bj("Fisioterapeuta",o,o,o,o,A.fG(B.aV,25,B.aa),B.ax,o),new A.ah(B.as,A.bj(u.y,o,o,o,o,A.fG(B.bx,15,o),B.ax,o),o),B.e9,new A.ah(B.R,A.bt(q.c,!0,"Digite aqui o seu nome",B.bl,o,B.b7,"Nome: ",!1),o),new A.ah(B.R,A.bt(q.d,!0,"Digite aqui a sua matr\xedcula",B.cK,o,B.b7,"Matr\xedcula: ",!1),o),new A.ah(B.R,A.bt(q.Q,!0,"Digite aqui o seu email",B.f0,o,B.c_,"Email: ",!1),o),new A.ah(B.R,A.bt(p,!0,"Digite aqui a sua senha",B.cd,o,B.b7,"Senha: ",!0),o),new A.ah(B.R,A.bt(p,!0,"Confirme aqui a sua senha",B.f1,o,B.aD,"Confirmar senha: ",!0),o),B.bF,new A.hQ("CADASTRAR",this.gCk(),o)],s),B.y,B.S,B.B),o,o,new A.cz(B.j,o,o,r,o,o,B.a2),600,o,B.dk,o)],s),B.dl),this.e),o,l/4),1)],s),B.y,B.bC,B.B)],s),B.t,B.a4))},
+return A.fT(o,o,A.dQ(B.a8,A.a([n,A.eP(A.a([m,A.hb(A.d3(A.k4(A.kd(A.a([A.bD(o,A.dI(A.a([A.cK(u.w,B.o,o,o,o),B.b5,A.bj("Fisioterapeuta",o,o,o,o,A.fG(B.aV,25,B.aa),B.ax,o),new A.ah(B.as,A.bj(u.y,o,o,o,o,A.fG(B.bx,15,o),B.ax,o),o),B.e9,new A.ah(B.R,A.bt(q.c,!0,"Digite aqui o seu nome",B.bl,o,B.b7,"Nome: ",!1),o),new A.ah(B.R,A.bt(q.d,!0,"Digite aqui a sua matr\xedcula",B.cK,o,B.b7,"Matr\xedcula: ",!1),o),new A.ah(B.R,A.bt(q.Q,!0,"Digite aqui o seu email",B.f0,o,B.c_,"Email: ",!1),o),new A.ah(B.R,A.bt(p,!0,"Digite aqui a sua senha",B.cd,o,B.b7,"Senha: ",!0),o),new A.ah(B.R,A.bt(p,!0,"Confirme aqui a sua senha",B.f1,o,B.aD,"Confirmar senha: ",!0),o),B.bF,new A.hQ("CADASTRAR",this.gCk(),o)],s),B.y,B.S,B.B),o,o,new A.cz(B.j,o,o,r,o,o,B.a2),o,o,B.dk,o)],s),B.dl),this.e),o,l/4),1)],s),B.y,B.bC,B.B)],s),B.t,B.a4))},
 gjc(){return""},
 gjb(){return""}}
 A.aj7.prototype={
@@ -76071,26 +76072,26 @@ $S:0}
 A.vh.prototype={
 a3(){return new A.Ns(A.h7(),new A.bp(null,t.am),B.i)}}
 A.Ns.prototype={
-J(a){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f=t.w,e=a.M(f).f.a.b,d=a.M(f).f.a.a
-f=A.bD(g,g,g,g,B.et,1/0,g,g,1/0)
+J(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=t.w,f=a.M(g).f,e=a.M(g).f.a.a
+g=A.bD(h,h,h,h,B.et,1/0,h,h,1/0)
 s=t.p
-r=A.eP(A.a([A.bD(g,A.cK(u.K,B.el,B.cz,g,g),g,g,g,g,B.i3,g,g),A.d3(A.bj("OnColo",g,g,g,g,B.mr,g,g),e/4,d/2)],s),B.y,B.S,B.B)
-q=A.cK(u.w,B.o,g,g,g)
-p=A.bj("Institui\xe7\xe3o",g,g,g,g,A.fG(B.aV,25,B.aa),B.ax,g)
-o=A.bj(u.y,g,g,g,g,A.fG(B.bx,15,g),B.ax,g)
-n=this.d
-m=A.bt(n.a,!0,u.J,B.oG,g,B.aD,"Nome da Institui\xe7\xe3o: ",!1)
-l=n.b
-k=A.bt(l,!0,"Digite aqui o seu CNPJ",B.oJ,g,B.ct,"CNPJ: ",!1)
-l=A.bt(l,!0,"Digite aqui o seu nome",B.oK,g,B.aD,"Nome do respons\xe1vel: ",!1)
-j=A.bt(n.Q,!0,"Digite aqui o seu e-mail",B.bl,g,B.c_,"E-mail: ",!1)
-n=n.as
-i=A.bt(n,!0,"Digite aqui a sua senha",B.cd,g,B.aD,"Senha: ",!0)
-n=A.bt(n,!0,"Confirme aqui a sua senha",B.f1,g,B.aD,"Confirmar senha: ",!0)
-h=A.ft(10)
+f=A.eP(A.a([A.bD(h,A.cK(u.K,B.el,B.cz,h,h),h,h,h,h,B.i3,h,h),A.d3(A.bj("OnColo",h,h,h,h,B.mr,h,h),f.a.b/4,e/2)],s),B.y,B.S,B.B)
+r=A.cK(u.w,B.o,h,h,h)
+q=A.bj("Institui\xe7\xe3o",h,h,h,h,A.fG(B.aV,25,B.aa),B.ax,h)
+p=A.bj(u.y,h,h,h,h,A.fG(B.bx,15,h),B.ax,h)
+o=this.d
+n=A.bt(o.a,!0,u.J,B.oG,h,B.aD,"Nome da Institui\xe7\xe3o: ",!1)
+m=o.b
+l=A.bt(m,!0,"Digite aqui o seu CNPJ",B.oJ,h,B.ct,"CNPJ: ",!1)
+m=A.bt(m,!0,"Digite aqui o seu nome",B.oK,h,B.aD,"Nome do respons\xe1vel: ",!1)
+k=A.bt(o.Q,!0,"Digite aqui o seu e-mail",B.bl,h,B.c_,"E-mail: ",!1)
+o=o.as
+j=A.bt(o,!0,"Digite aqui a sua senha",B.cd,h,B.aD,"Senha: ",!0)
+o=A.bt(o,!0,"Confirme aqui a sua senha",B.f1,h,B.aD,"Confirmar senha: ",!0)
+i=A.ft(10)
 A.vG()
-h=A.fu(g,g,new A.aN(B.aV,t.R),new A.aN(5,t.QL),g,g,g,g,g,g,new A.aN(B.h4,t.v),g,g,g,g,new A.aN(new A.bW(h,new A.bF(A.as(255,217,65,0),1,B.V,-1)),t.xx),g,g,g,g,g,g)
-return A.fT(g,B.hN,A.dQ(B.a8,A.a([f,A.eP(A.a([r,A.hb(A.d3(A.k4(A.kd(A.a([new A.ah(B.ar,A.bD(B.bj,A.dI(A.a([q,B.b5,p,new A.ah(B.as,o,g),B.bF,new A.ah(B.a9,m,g),new A.ah(B.a9,k,g),B.bF,new A.ah(B.a9,l,g),new A.ah(B.a9,j,g),new A.ah(B.a9,i,g),new A.ah(B.a9,n,g),B.b5,A.jW(A.bj("CADASTRAR",g,g,g,g,B.mq,g,g),new A.aeq(this,a),h),new A.ah(B.ar,A.d3(A.cK("assets/images/logo_UFS.png",B.o,B.d8,g,g),80,150),g)],s),B.y,B.bC,B.B),g,g,B.d7,e-40,B.ar,g,d/3),g)],s),g),this.e),g,d/4),1)],s),B.y,B.bC,B.B)],s),B.t,B.a4))}}
+i=A.fu(h,h,new A.aN(B.aV,t.R),new A.aN(5,t.QL),h,h,h,h,h,h,new A.aN(B.h4,t.v),h,h,h,h,new A.aN(new A.bW(i,new A.bF(A.as(255,217,65,0),1,B.V,-1)),t.xx),h,h,h,h,h,h)
+return A.fT(h,B.hN,A.dQ(B.a8,A.a([g,A.eP(A.a([f,A.hb(A.d3(A.k4(A.kd(A.a([new A.ah(B.ar,A.bD(B.bj,A.dI(A.a([r,B.b5,q,new A.ah(B.as,p,h),B.bF,new A.ah(B.a9,n,h),new A.ah(B.a9,l,h),B.bF,new A.ah(B.a9,m,h),new A.ah(B.a9,k,h),new A.ah(B.a9,j,h),new A.ah(B.a9,o,h),B.b5,A.jW(A.bj("CADASTRAR",h,h,h,h,B.mq,h,h),new A.aeq(this,a),i),new A.ah(B.ar,A.d3(A.cK("assets/images/logo_UFS.png",B.o,B.d8,h,h),80,150),h)],s),B.y,B.bC,B.B),h,h,B.d7,h,B.ar,h,e/3),h)],s),h),this.e),h,e/4),1)],s),B.y,B.bC,B.B)],s),B.t,B.a4))}}
 A.aeq.prototype={
 $0(){var s=0,r=A.X(t.H),q=this,p,o,n,m,l,k
 var $async$$0=A.Y(function(a,b){if(a===1)return A.U(b,r)
