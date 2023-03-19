@@ -1,0 +1,17 @@
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/oncolo
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/assets/icons/icons8-fita-de-c%C3%A2ncer-color/icons8-fita-de-c%C3%A2ncer-48.png
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/assets/icons/icons8-fita-de-c%C3%A2ncer-color/icons8-fita-de-c%C3%A2ncer-96.png
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logo_UFS.png
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/img_fundo_mobile.png
+/home/leticiacena/Desktop/ProjetoINCA/Desenvolvimento/2022-2-praticas-projetoinca-front-end/oncolo/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/img_fundo_web.png
